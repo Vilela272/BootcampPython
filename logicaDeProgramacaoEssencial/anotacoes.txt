@@ -1,0 +1,31 @@
+Estrutura de repetição -> 
+Dentro da lógica de programação, é uma estrutura que permite executar mais de uma vez o 
+mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um contador.
+
+Linguagem de programação -> 
+É uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas
+para gerar programas (software). Um software pode ser desenvolvido para rodar em um computador, 
+dispositivo móvel ou em qualquer equipamento que permita sua execução.
+
+Compiladas -> 
+É uma linguagem de programação em que o código fonte, é executado diretamente pelo sistema operacional 
+ou pelo processador, após ser traduzido por meio de um processo chamado compliação.
+
+Interpretadas -> 
+É uma linguagem de programação em que o código fonte é executado por um programa de computador chamado 
+interpretador, que em seguida é executado pelo sistema operacional ou processador.
+
+Portugol ->
+É uma pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em português de forma 
+simples e intuitiva, independentemente de linguagem de programação.
+
+Desvio condicional - se ->
+É utilizada a palavra reservada se, a condição a ser testada entre parenteses e as instruções que devem 
+ser executadas entre chaves caso o desvio seja verdadeiro.
+
+Matrizes ->
+É uma coleção de variáveis de mesmo tipo, acessíveis com um único nome e armazenados contiguamente na memória.
+A individualização de cada variável de um vetor é feita através do uso de índices.
+
+Vetores ->
+Os vetores são matrizes de uma só dimensão.
